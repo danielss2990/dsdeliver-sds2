@@ -1,16 +1,14 @@
 import React from 'react';
 import './App.css';
-import Hello from './Hello';
+import Navbar from './Navbar';
 
 
 
 function App() {
   return (
-   <div>
-     < Hello message="Daniel"/>
-     < Hello message="Daniel"/>
-     < Hello message="Daniel"/>
-   </div>
+    <div>
+      < Navbar />
+    </div>
   );
 }
 
