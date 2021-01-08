@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import Navbar from './Navbar';
 import Routes from './Routes';
 
 import { ToastContainer} from 'react-toastify';
